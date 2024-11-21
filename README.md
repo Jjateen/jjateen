@@ -70,7 +70,7 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%2300B0D4.svg?style=plastic&logo=python&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B00.svg?style=plastic&logo=streamlit&logoColor=white) 
 ![Chainlit](https://img.shields.io/badge/Chainlit-%234F5B5E.svg?style=plastic&logo=python&logoColor=white) 
-  
+![Keil µVision](https://img.shields.io/badge/Keil%20µVision-%23007ACC.svg?style=plastic&logo=arm&logoColor=white) 
 </div>
 
 # 📊 GitHub Stats:
