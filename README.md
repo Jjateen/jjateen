@@ -5,14 +5,14 @@
 <!-- Typing SVG -->
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Jjateen!;I+specialize+in+Embedded+Systems;Robotics;VLSI+Engineering;AI+%2F+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Jjateen!;I+specialize+in+Embedded+Systems+and+IoT;Robotics;VLSI+Engineering;AI+%2F+ML" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- Quote Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=98C379&center=true&vCenter=true&width=600&lines=A+quiet+hand+in+the+art+of+making" alt="Quote Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=10000&color=98C379&center=true&vCenter=true&width=600&lines=A+quiet+hand+in+the+art+of+making" alt="Quote Typing SVG" />
   </a>
 </p>
 
