@@ -103,14 +103,12 @@
 </p>
 
 
-<!-- Snake Animation -->
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jjateen/Jjateen/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jjateen/Jjateen/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Jjateen/Jjateen/blob/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+<h2>🐍 Contribution Snake</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 <img src="https://visitcount.itsvg.in/api?id=Jjateen&icon=0&color=0" alt="Profile Views" />
