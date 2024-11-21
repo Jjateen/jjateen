@@ -20,7 +20,7 @@ jobs:
           github_user_name: Jjateen # Replace with your GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg?
-            dist/github-contribution-grid-snake-dark.svg?palette=tokyonight
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
