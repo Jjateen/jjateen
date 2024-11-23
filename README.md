@@ -62,7 +62,7 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%230076BC.svg?style=plastic&logo=freertos&logoColor=white) 
 ![ZephyrRTOS](https://img.shields.io/badge/ZephyrRTOS-%230083FF.svg?style=plastic&logo=zephyrproject&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Webots](https://img.shields.io/badge/Webots-%2300A9E0.svg?style=plastic&logo=webots&logoColor=white) 
+![Webots](https://img.shields.io/badge/Webots-%2300A9E0.svg?style=plastic&logo=cyberbotics&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-%2300A9E0.svg?style=plastic&logo=intel&logoColor=white) 
 ![LangChain](https://img.shields.io/badge/LangChain-%231F2D3B.svg?style=plastic&logo=python&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF7A8A.svg?style=plastic&logo=huggingface&logoColor=white) 
