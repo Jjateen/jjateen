@@ -71,6 +71,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B00.svg?style=plastic&logo=streamlit&logoColor=white) 
 ![Chainlit](https://img.shields.io/badge/Chainlit-%234F5B5E.svg?style=plastic&logo=python&logoColor=white) 
 ![Keil µVision](https://img.shields.io/badge/Keil%20µVision-%23007ACC.svg?style=plastic&logo=arm&logoColor=white) 
+![Virtuoso](https://img.shields.io/badge/Virtuoso-%23EE0000.svg?style=plastic&logo=cadence&logoColor=white)
 </div>
 
 # 📊 GitHub Stats:
